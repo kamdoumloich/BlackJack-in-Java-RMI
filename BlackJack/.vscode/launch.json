@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlayerMain",
+            "request": "launch",
+            "mainClass": "main.PlayerMain",
+            "projectName": "BlackJack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DealerMain",
+            "request": "launch",
+            "mainClass": "main.DealerMain",
+            "projectName": "BlackJack"
+        }
+    ]
+}
